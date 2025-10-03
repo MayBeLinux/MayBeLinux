@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm MayBeLinux
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Linux+Enthusiast+%F0%9F%90%A7;Rust+Learner+%F0%9F%A6%80;Lua+Developer+%F0%9F%8C%99;OpenCV+Student+%F0%9F%93%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Linux+Enthusiast+%F0%9F%90%A7;Rust+Learner+%F0%9F%A6%80;Lua+Developer+%F0%9F%8C%99;OpenCV+Explorer+%F0%9F%93%B7;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -70,6 +70,7 @@ fn main() {
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayBeLinux)
+[![Naostage](https://img.shields.io/badge/Naostage-0066CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naostage)
 
 </div>
 
