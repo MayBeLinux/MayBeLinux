@@ -1,5 +1,3 @@
-# Hi there! 👋 I'm MayBeLinux
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Linux+Enthusiast+%F0%9F%90%A7;Rust+Learner+%F0%9F%A6%80;Lua+Developer+%F0%9F%8C%99;OpenCV+Explorer+%F0%9F%93%B7;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
