@@ -48,60 +48,17 @@ impl Developer {
 
 ### 💻 Langages
 
-<img src="https://skillicons.dev/icons?i=rust,python,lua,c,cpp,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=rust,python,lua,js,ts&theme=dark" />
 
 ### 🛠️ Outils & Frameworks
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,neovim,vscode&theme=dark" />
-
-### 🎯 Spécialisations
-
-<img src="https://skillicons.dev/icons?i=opencv,tensorflow,raspberrypi,arduino&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode&theme=dark" />
 
 </div>
 
 ---
 
-## 🚀 Projets en cours
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 💡 K System LED
-```python
-# Calibration au sol + Tracking
-class KSystem:
-    def calibrate(self):
-        self.thermal_tracking()
-        self.display_optimize()
-```
-**Tech**: Python • Kapta • GrandMA3
-
-</td>
-<td width="50%">
-
-### 🎛️ GrandMA3 Plugin
-```python
-# Console lighting management
-class MA3Plugin:
-    def manage_projectors(self):
-        self.optimize_values()
-        self.sync_display()
-```
-**Tech**: Python • GrandMA3 • DMX
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 Statistiques GitHub
+## Github Stats
 
 <div align="center">
   
@@ -119,7 +76,7 @@ class MA3Plugin:
 
 ---
 
-## 🎯 Focus Actuel
+## Mindmap
 
 <div align="center">
 
@@ -145,7 +102,7 @@ mindmap
 <tr>
 <td align="center" width="33%">
 
-🦀 **Rust**
+**Rust**
 <br/>
 Learning & Building
 <br/>
@@ -154,7 +111,7 @@ Learning & Building
 </td>
 <td align="center" width="33%">
 
-📷 **OpenCV**
+**OpenCV**
 <br/>
 Computer Vision
 <br/>
@@ -169,11 +126,11 @@ Computer Vision
 
 ---
 
-## 🏢 Naostage
+## Naostage
 
 <div align="center">
 
-**Développement de systèmes LED innovants**
+**Tracking System**
 
 ```diff
 + K System: Tracking System based on AI Kapta / Kore / Kratos 
@@ -186,7 +143,7 @@ Computer Vision
 
 ---
 
-## 🤝 Contact
+## Contact
 
 <div align="center">
 
