@@ -131,13 +131,12 @@ mindmap
       OpenCV & Vision
       Lighting Systems
     Projets
-      K System LED
-      GrandMA3 Plugin
-      Thermal Tracking
+      K System
+      GrandMA3
     Passions
-      LED Technology
       Computer Vision
       Lighting Design
+      New Tech
 ```
 
 </div>
@@ -159,36 +158,14 @@ Learning & Building
 <br/>
 Computer Vision
 <br/>
-*Thermal Tracking*
+*Tracking*
 
 </td>
 <td align="center" width="33%">
 
-💡 **LED Tech**
-<br/>
-K System • ISE 2026
-<br/>
-*Display & Lighting*
-
 </td>
 </tr>
 </table>
-
----
-
-## 🌱 Apprentissage Continu
-
-<div align="center">
-
-| Domaine | Technologies | Statut |
-|---------|-------------|--------|
-| **LED Systems** | K System, Display Tech | 🔥 Active |
-| **Lighting Control** | GrandMA3, OSC, DMX | 💡 Professional |
-| **Computer Vision** | OpenCV, Thermal Tracking | 🚀 Exploring |
-| **Development** | Rust, Python, Lua | 📚 Learning |
-| **Hardware Integration** | Kapta, Projectors | 🎬 Hands-on |
-
-</div>
 
 ---
 
@@ -199,10 +176,8 @@ K System • ISE 2026
 **Développement de systèmes LED innovants**
 
 ```diff
-+ K System: LED Display avec calibration au sol
-+ Thermal Tracking: Kapta system integration
++ K System: Tracking System based on AI Kapta / Kore / Kratos 
 + GrandMA3 Plugins: Console lighting management
-+ ISE 2026: Préparation de la présentation
 ```
 
 [![Naostage](https://img.shields.io/badge/Naostage-0066CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naostage)
@@ -227,11 +202,6 @@ K System • ISE 2026
 ---
 
 <div align="center">
-
-### 💭 Philosophie
-
-**"Le meilleur moyen d'apprendre est de construire,**  
-**et le meilleur moyen de construire est de partager."**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
