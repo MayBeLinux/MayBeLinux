@@ -1,44 +1,9 @@
 <div align="center">
 
-# 👋 Salut, je suis Josh
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Développeur+%7C+LED+Display+Systems;Rust+%F0%9F%A6%80+%7C+Python+%F0%9F%90%8D+%7C+Lua+%F0%9F%8C%99;Lighting+Technology+💡;Toujours+en+apprentissage+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
----
-
-## 🧊 À propos
+# Josh
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MayBeLinux&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&include_all_commits=true" width="48%" />
 
-```rust
-struct Developer {
-    name: &'static str,
-    role: &'static str,
-    company: &'static str,
-    learning: Vec<&'static str>,
-    passion: &'static str,
-}
-
-impl Developer {
-    fn new() -> Self {
-        Self {
-            name: "Josh",
-            role: "LED Systems Developer",
-            company: "Naostage",
-            learning: vec![
-                "Rust 🦀",
-                "OpenCV 📷", 
-                "Computer Vision",
-                "Lighting Systems"
-            ],
-            passion: "Creating innovative LED solutions",
-        }
-    }
-}
-```
-
-<br clear="right"/>
 
 ---
 
