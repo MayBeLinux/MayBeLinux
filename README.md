@@ -1,85 +1,238 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Linux+Enthusiast+%F0%9F%90%A7;Rust+Learner+%F0%9F%A6%80;Lua+Developer+%F0%9F%8C%99;OpenCV+Explorer+%F0%9F%93%B7;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
-</div>
 
-## 🚀 About Me
+# 👋 Salut, je suis Josh
 
-I'm a passionate developer on a continuous learning journey, exploring the depths of systems programming and open-source technologies. Currently diving deep into the world of **Rust** while sharpening my skills in **Lua** development and **OpenCV**.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Développeur+%7C+LED+Display+Systems;Rust+%F0%9F%A6%80+%7C+Python+%F0%9F%90%8D+%7C+Lua+%F0%9F%8C%99;Lighting+Technology+💡;Toujours+en+apprentissage+%F0%9F%9A%80" alt="Typing SVG" />
 
-- 🦀 **Currently Learning**: Rust (complete apprenticeship)
-- 📷 **En apprentissage complet**: OpenCV
-- 🌙 **Working with**: Lua development
-- 🐧 **Exploring**: Linux systems and administration
-- 🎯 **Focus**: Systems programming and open-source contributions
-- 📚 **Philosophy**: Always learning, always growing
+<br/>
+---
 
-## 🛠️ Technologies & Tools
+## 🧊 À propos
 
-### Programming Languages
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-
-### Operating Systems & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MayBeLinux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayBeLinux&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🌱 Learning Journey
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MayBeLinux&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&include_all_commits=true" width="48%" />
 
 ```rust
-fn main() {
-    let learning_path = vec!["Rust", "Linux", "Lua", "OpenCV", "Systems Programming"];
-    
-    for skill in learning_path {
-        println!("Mastering: {}", skill);
+struct Developer {
+    name: &'static str,
+    role: &'static str,
+    company: &'static str,
+    learning: Vec<&'static str>,
+    passion: &'static str,
+}
+
+impl Developer {
+    fn new() -> Self {
+        Self {
+            name: "Josh",
+            role: "LED Systems Developer",
+            company: "Naostage",
+            learning: vec![
+                "Rust 🦀",
+                "OpenCV 📷", 
+                "Computer Vision",
+                "Lighting Systems"
+            ],
+            passion: "Creating innovative LED solutions",
+        }
     }
-    
-    println!("The journey never ends! 🚀");
 }
 ```
 
-## 🎯 Current Focus
+<br clear="right"/>
 
-- 🦀 **Rust Mastery**: Deep diving into systems programming with Rust
-- 📷 **OpenCV Learning**: Je suis en apprentissage complet de OpenCV
-- 🐧 **Linux Proficiency**: Expanding knowledge of Linux systems and administration
-- 🌙 **Lua Projects**: Building and contributing to Lua-based applications
-- 🔧 **Open Source**: Contributing to meaningful projects in the community
+---
 
-## 📈 Contribution Graph
+## 🎨 Stack Technique
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayBeLinux&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+
+### 💻 Langages
+
+<img src="https://skillicons.dev/icons?i=rust,python,lua,c,cpp,js,ts&theme=dark" />
+
+### 🛠️ Outils & Frameworks
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,neovim,vscode&theme=dark" />
+
+### 🎯 Spécialisations
+
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,raspberrypi,arduino&theme=dark" />
+
 </div>
 
-## 🤝 Let's Connect
+---
+
+## 🚀 Projets en cours
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 💡 K System LED
+```python
+# Calibration au sol + Tracking
+class KSystem:
+    def calibrate(self):
+        self.thermal_tracking()
+        self.display_optimize()
+```
+**Tech**: Python • Kapta • GrandMA3
+
+</td>
+<td width="50%">
+
+### 🎛️ GrandMA3 Plugin
+```python
+# Console lighting management
+class MA3Plugin:
+    def manage_projectors(self):
+        self.optimize_values()
+        self.sync_display()
+```
+**Tech**: Python • GrandMA3 • DMX
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Statistiques GitHub
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayBeLinux)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayBeLinux&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8&hide=html,css" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MayBeLinux&theme=react&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="48%" />
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MayBeLinux&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9&area_color=3B82F6&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Focus Actuel
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Josh))
+    Apprentissage
+      Rust Development
+      OpenCV & Vision
+      Lighting Systems
+    Projets
+      K System LED
+      GrandMA3 Plugin
+      Thermal Tracking
+    Passions
+      LED Technology
+      Computer Vision
+      Lighting Design
+```
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+🦀 **Rust**
+<br/>
+Learning & Building
+<br/>
+*Systems Development*
+
+</td>
+<td align="center" width="33%">
+
+📷 **OpenCV**
+<br/>
+Computer Vision
+<br/>
+*Thermal Tracking*
+
+</td>
+<td align="center" width="33%">
+
+💡 **LED Tech**
+<br/>
+K System • ISE 2026
+<br/>
+*Display & Lighting*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌱 Apprentissage Continu
+
+<div align="center">
+
+| Domaine | Technologies | Statut |
+|---------|-------------|--------|
+| **LED Systems** | K System, Display Tech | 🔥 Active |
+| **Lighting Control** | GrandMA3, OSC, DMX | 💡 Professional |
+| **Computer Vision** | OpenCV, Thermal Tracking | 🚀 Exploring |
+| **Development** | Rust, Python, Lua | 📚 Learning |
+| **Hardware Integration** | Kapta, Projectors | 🎬 Hands-on |
+
+</div>
+
+---
+
+## 🏢 Naostage
+
+<div align="center">
+
+**Développement de systèmes LED innovants**
+
+```diff
++ K System: LED Display avec calibration au sol
++ Thermal Tracking: Kapta system integration
++ GrandMA3 Plugins: Console lighting management
++ ISE 2026: Préparation de la présentation
+```
+
 [![Naostage](https://img.shields.io/badge/Naostage-0066CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naostage)
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MayBeLinux&color=36BCF7&style=for-the-badge" alt="Profile Views" />
-</div>
+## 🤝 Contact
 
 <div align="center">
-  
-**"The best way to learn is by doing, and the best way to do is by sharing."**
+
+[![GitHub MayBeLinux](https://img.shields.io/badge/MayBeLinux-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayBeLinux)
+[![GitHub Naostage](https://img.shields.io/badge/Naostage-0066CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naostage)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=MayBeLinux&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Philosophie
+
+**"Le meilleur moyen d'apprendre est de construire,**  
+**et le meilleur moyen de construire est de partager."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
